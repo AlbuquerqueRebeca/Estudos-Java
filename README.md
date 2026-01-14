@@ -1,3 +1,5 @@
-# - Estudos
-Repositório para armazenar os desafios de código 
+# - Exercícios de lógica
+
+
+Armazenando exercício de lógica em JAVA feitos no Beecrowd e HackerRank
 
