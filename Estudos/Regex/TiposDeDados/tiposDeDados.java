@@ -22,7 +22,7 @@ BigInteger valor = new BigInteger(valorStr);
 
 if(valor.compareTo(BigInteger.valueOf(Long.MIN_VALUE))  < 0 ||
 valor.compareTo(BigInteger.valueOf(Long.MAX_VALUE)) > 0 ){
-    System.out.println( valorStr  + " can't be fitted anywhare.");
+    System.out.println( valorStr  + " can't be fitted anywhere.");
 }else {
     long v = valor.longValue();
     
