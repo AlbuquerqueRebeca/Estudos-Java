@@ -24,9 +24,9 @@ public class regex {
         String ip = entrada.nextLine();
         Matcher matcher = padraoIp.matcher(ip);
        
-        //System.out.println(matcher.matches());
+        System.out.println(matcher.matches());
     }
-       System.out.println(matcher.matches());
+       
        
     
     
